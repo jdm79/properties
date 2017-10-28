@@ -12,6 +12,7 @@
     "description": "blah blah blah"
 
   },
+
   {
     "apartment": "ring house",
     "room": "1",
@@ -25,6 +26,7 @@
     "description": "blah blah blah"
 
   },
+
   {
     "apartment": "ring house",
     "room": "2",
@@ -37,5 +39,5 @@
       },
     "description": "blah blah blah"
 
-  },
+  }
 ]
