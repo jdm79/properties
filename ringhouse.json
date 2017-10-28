@@ -4,7 +4,11 @@
     "room": "3",
     "size": "10m2",
     "bed": "double",
-    "thumbnail": "http://placehold.it/150/771796",
+    "thumbnail1": "http://placehold.it/150/771796",
+    "thumbnail2": "http://placehold.it/150/771796",
+    "thumbnail3": "http://placehold.it/150/771796",
+    "thumbnail4": "http://placehold.it/150/771796",
+    "thumbnail5": "http://placehold.it/150/771796",
     "images": [
       {
         "thumbnail": "http://placehold.it/150/771796"
@@ -21,7 +25,11 @@
     "room": "1",
     "size": "15m2",
     "bed": "king",
-    "thumbnail": "http://placehold.it/150/771796",
+    "thumbnail1": "http://placehold.it/150/771796",
+    "thumbnail2": "http://placehold.it/150/771796",
+    "thumbnail3": "http://placehold.it/150/771796",
+    "thumbnail4": "http://placehold.it/150/771796",
+    "thumbnail5": "http://placehold.it/150/771796",
     "images": [
       {
         "thumbnail": "http://placehold.it/150/771796"
@@ -38,7 +46,11 @@
     "room": "2",
     "size": "11m2",
     "bed": "single",
-    "thumbnail": "http://placehold.it/150/771796",
+    "thumbnail1": "http://placehold.it/150/771796",
+    "thumbnail2": "http://placehold.it/150/771796",
+    "thumbnail3": "http://placehold.it/150/771796",
+    "thumbnail4": "http://placehold.it/150/771796",
+    "thumbnail5": "http://placehold.it/150/771796",
     "images": [
       {
         "thumbnail": "http://placehold.it/150/771796"
