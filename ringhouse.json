@@ -4,11 +4,7 @@
     "room": "3",
     "size": "10m2",
     "bed": "double",
-    "images":
-      {
-        "image-1": "",
-        "image-2": ""
-      },
+    "images": [],
     "description": "blah blah blah"
 
   },
@@ -18,11 +14,7 @@
     "room": "1",
     "size": "15m2",
     "bed": "king",
-    "images":
-      {
-        "image-1": "",
-        "image-2": ""
-      },
+    "images": [],
     "description": "blah blah blah"
 
   },
@@ -32,11 +24,7 @@
     "room": "2",
     "size": "11m2",
     "bed": "single",
-    "images":
-      {
-        "image-1": "",
-        "image-2": ""
-      },
+    "images": [],
     "description": "blah blah blah"
 
   }
