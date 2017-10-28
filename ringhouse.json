@@ -4,7 +4,12 @@
     "room": "3",
     "size": "10m2",
     "bed": "double",
-    "images": [],
+    "thumbnail": "http://placehold.it/150/771796",
+    "images": [
+      {
+        "thumbnail": "http://placehold.it/150/771796"
+      }
+    ],
     "description": "blah blah blah"
 
   },
@@ -14,7 +19,12 @@
     "room": "1",
     "size": "15m2",
     "bed": "king",
-    "images": [],
+    "thumbnail": "http://placehold.it/150/771796",
+    "images": [
+      {
+        "thumbnail": "http://placehold.it/150/771796"
+      }
+    ],
     "description": "blah blah blah"
 
   },
@@ -24,7 +34,12 @@
     "room": "2",
     "size": "11m2",
     "bed": "single",
-    "images": [],
+    "thumbnail": "http://placehold.it/150/771796",
+    "images": [
+      {
+        "thumbnail": "http://placehold.it/150/771796"
+      }
+    ],
     "description": "blah blah blah"
 
   }
