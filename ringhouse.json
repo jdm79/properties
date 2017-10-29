@@ -4,10 +4,11 @@
     "room": "3",
     "size": "10m2",
     "bed": "double",
-    "thumbnail1": "http://placehold.it/150/771796",
-    "thumbnail2": "http://placehold.it/150/771796",
-    "thumbnail3": "http://placehold.it/150/771796",
+    "thumbnail1": "http://lorempixel.com/150/150/",
+    "thumbnail2": "http://lorempixel.com/150/150/",
+    "thumbnail3": "http://lorempixel.com/150/150/",
     "thumbnail4": "http://lorempixel.com/150/150/",
+
     "images": [
       {
         "thumbnail": "http://placehold.it/150/771796"
